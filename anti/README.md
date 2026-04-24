@@ -1,4 +1,4 @@
-# Local RAG Chatbot (CCP Project)
+# Local RAG Chatbot
 
 A fully deployed **Retrieval-Augmented Generation (RAG)** chatbot using **Local LLaMA**, **FAISS**, and **FastAPI**.
 Designed to meet university Complex Computing Problem (CCP) requirements.
