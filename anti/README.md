@@ -1,7 +1,7 @@
 # Local RAG Chatbot
 
 A fully deployed **Retrieval-Augmented Generation (RAG)** chatbot using **Local LLaMA**, **FAISS**, and **FastAPI**.
-Designed to meet university Complex Computing Problem (CCP) requirements.
+
 
 ## 📌 Project Overview
 - **Model**: LLaMA (via Ollama) - completely offline.
